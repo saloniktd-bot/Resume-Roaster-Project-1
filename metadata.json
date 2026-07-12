@@ -1,0 +1,6 @@
+{
+  "name": "Resume Roaster",
+  "description": "Get brutally honest feedback and highly actionable improvements for your resume using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
